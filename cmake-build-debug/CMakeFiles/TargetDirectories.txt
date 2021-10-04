@@ -1,3 +1,3 @@
-/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/CMakeFiles/bmpFilter.dir
+/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/CMakeFiles/bmpFilter.dir

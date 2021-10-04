@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter
 -- The C compiler identification is AppleClang 10.0.0.10001044
 -- Detecting C compiler ABI info
 -- Detecting C compiler ABI info - done
@@ -7,4 +7,4 @@
 -- Detecting C compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug
+-- Build files have been written to: /Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug

@@ -54,10 +54,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter
+CMAKE_SOURCE_DIR = /Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -81,14 +81,14 @@ clean: CMakeFiles/bmpFilter.dir/clean
 CMakeFiles/bmpFilter.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/bmpFilter.dir/build.make CMakeFiles/bmpFilter.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/bmpFilter.dir/build.make CMakeFiles/bmpFilter.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target bmpFilter"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target bmpFilter"
 .PHONY : CMakeFiles/bmpFilter.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/bmpFilter.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/bmpFilter.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/bmpFilter.dir/rule
 
 # Convenience name for target.
