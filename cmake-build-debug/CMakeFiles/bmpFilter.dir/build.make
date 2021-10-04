@@ -53,10 +53,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter
+CMAKE_SOURCE_DIR = /Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/bmpFilter.dir/depend.make
@@ -68,16 +68,16 @@ include CMakeFiles/bmpFilter.dir/flags.make
 
 CMakeFiles/bmpFilter.dir/library.c.o: CMakeFiles/bmpFilter.dir/flags.make
 CMakeFiles/bmpFilter.dir/library.c.o: ../library.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/bmpFilter.dir/library.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/bmpFilter.dir/library.c.o -c /Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/library.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/bmpFilter.dir/library.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/bmpFilter.dir/library.c.o -c /Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/library.c
 
 CMakeFiles/bmpFilter.dir/library.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/bmpFilter.dir/library.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/library.c > CMakeFiles/bmpFilter.dir/library.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/library.c > CMakeFiles/bmpFilter.dir/library.c.i
 
 CMakeFiles/bmpFilter.dir/library.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/bmpFilter.dir/library.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/library.c -o CMakeFiles/bmpFilter.dir/library.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/library.c -o CMakeFiles/bmpFilter.dir/library.c.s
 
 # Object files for target bmpFilter
 bmpFilter_OBJECTS = \
@@ -89,7 +89,7 @@ bmpFilter_EXTERNAL_OBJECTS =
 libbmpFilter.a: CMakeFiles/bmpFilter.dir/library.c.o
 libbmpFilter.a: CMakeFiles/bmpFilter.dir/build.make
 libbmpFilter.a: CMakeFiles/bmpFilter.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C static library libbmpFilter.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C static library libbmpFilter.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/bmpFilter.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/bmpFilter.dir/link.txt --verbose=$(VERBOSE)
 
@@ -102,6 +102,6 @@ CMakeFiles/bmpFilter.dir/clean:
 .PHONY : CMakeFiles/bmpFilter.dir/clean
 
 CMakeFiles/bmpFilter.dir/depend:
-	cd /Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter /Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter /Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug /Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug /Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/CMakeFiles/bmpFilter.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter /Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter /Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug /Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug /Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/CMakeFiles/bmpFilter.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/bmpFilter.dir/depend
 

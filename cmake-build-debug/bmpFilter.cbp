@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug"/>
+				<Option working_dir="/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug"/>
+				<Option working_dir="/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug"/>
+				<Option working_dir="/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="bmpFilter">
-				<Option output="/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/libbmpFilter.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug"/>
+				<Option output="/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/libbmpFilter.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
@@ -51,15 +51,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 bmpFilter"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 bmpFilter"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="bmpFilter/fast">
-				<Option output="/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/libbmpFilter.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug"/>
+				<Option output="/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/libbmpFilter.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
@@ -71,20 +71,20 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 bmpFilter/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 bmpFilter/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/library.c">
+		<Unit filename="/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/library.c">
 			<Option target="bmpFilter"/>
 		</Unit>
-		<Unit filename="/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/library.h">
+		<Unit filename="/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/library.h">
 			<Option target="bmpFilter"/>
 		</Unit>
-		<Unit filename="/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/CMakeLists.txt">
+		<Unit filename="/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

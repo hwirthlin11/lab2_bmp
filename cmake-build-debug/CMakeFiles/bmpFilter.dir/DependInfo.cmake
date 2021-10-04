@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/library.c" "/Users/heidiwirthlin/Desktop/BYU/cs224/master/bmpFilter/cmake-build-debug/CMakeFiles/bmpFilter.dir/library.c.o"
+  "/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/library.c" "/Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter/cmake-build-debug/CMakeFiles/bmpFilter.dir/library.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 
