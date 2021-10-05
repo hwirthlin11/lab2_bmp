@@ -14,6 +14,7 @@
     <list default="true" id="7781ba67-747e-4958-b183-448ddd6c9b6e" name="Changes" comment="image changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bmpFilter.c" beforeDir="false" afterPath="$PROJECT_DIR$/bmpFilter.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +42,11 @@
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="cccexit" />
+    </option>
   </component>
   <component name="RunManager" selected="Gradle./Users/heidiwirthlin/Desktop/BYU/cs224/lab2_bmp/bmpFilter">
     <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
@@ -95,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633384738928</updated>
-      <workItem from="1633385036584" duration="7079000" />
+      <workItem from="1633385036584" duration="9997000" />
     </task>
     <task id="LOCAL-00001" summary="finished main portion of project, starting extra credit">
       <created>1633386299648</created>
@@ -111,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633389509855</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="image changes">
+      <created>1633393863380</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1633393863380</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

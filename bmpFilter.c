@@ -52,10 +52,10 @@ unsigned getFileSizeInBytes(FILE* stream) {
 void getBmpFileAsBytes(unsigned char* ptr, unsigned fileSizeInBytes, FILE* stream) {
   rewind(stream);
   if (fread(ptr, fileSizeInBytes, 1, stream) != 1) {
-#ifdef DEBUG
-    printf("feof() = %x\n", feof(stream));
-    printf("ferror() = %x\n", ferror(stream));
-#endif
+//#ifdef DEBUG
+//    printf("feof() = %x\n", feof(stream));
+//    printf("ferror() = %x\n", ferror(stream));
+//#endif
     exit(FREAD_ERROR);
   }
 }
@@ -124,7 +124,7 @@ void applyFilterToRow(unsigned char* row, int width, int isGrayscale) {
 }
 
 void applyFilterToPixelArray(unsigned char* pixelArray, int width, int height, int isGrayscale) {
-//      iterating through the rows
+//      iterating through the rows and applying filter to eaach
   int padding = 0;
   int rowWidth = 0;
   int i = 0;
