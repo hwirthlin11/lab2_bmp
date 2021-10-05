@@ -11,17 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7781ba67-747e-4958-b183-448ddd6c9b6e" name="Changes" comment="finished main portion of project, starting extra credit">
-      <change afterPath="$PROJECT_DIR$/my_byu.bmp" afterDir="false" />
+    <list default="true" id="7781ba67-747e-4958-b183-448ddd6c9b6e" name="Changes" comment="image changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/a.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/.grayscale-cheese.txt.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/.grayscale-horses.bmp.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/.grayscale-horses.txt.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/.orig-horses.bmp.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/.threshold-cheese.txt.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/.threshold-horses.bmp.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/.threshold-horses.txt.icloud" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633384738928</updated>
-      <workItem from="1633385036584" duration="3714000" />
+      <workItem from="1633385036584" duration="7079000" />
     </task>
     <task id="LOCAL-00001" summary="finished main portion of project, starting extra credit">
       <created>1633386299648</created>
@@ -112,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633386299648</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="image changes">
+      <created>1633389509855</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633389509855</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +130,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finished main portion of project, starting extra credit" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished main portion of project, starting extra credit" />
+    <MESSAGE value="image changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="image changes" />
   </component>
 </project>
